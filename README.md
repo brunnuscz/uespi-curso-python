@@ -1,2 +1,1 @@
-# Uespi-Curso-Python
-🐍 Linguagem Python
+# UESPI - Curso de Exteção em Python
